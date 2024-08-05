@@ -3,3 +3,6 @@ assignment-1: https://github.com/Bolledlashashank/DAA-2203a51594/blob/main/bubbl
 
 
 assignment-2:  https://github.com/Bolledlashashank/DAA-2203a51594/blob/main/selection%20sort
+
+
+week1-(1,2,3) Assignment:1:https://github.com/Bolledlashashank/DAA-2203a51594/blob/main/week%201-1%20(using%20bubble%20sort)
