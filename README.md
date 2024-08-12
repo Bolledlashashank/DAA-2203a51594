@@ -16,3 +16,5 @@ week2-3:https://github.com/Bolledlashashank/DAA-2203a51594/blob/main/week2-3(usi
 
 Binary search : https://github.com/Bolledlashashank/DAA-2203a51594/blob/main/binary%20search.c
 
+
+MERGE SORT: https://github.com/Bolledlashashank/DAA-2203a51594/blob/main/merge%20sort.c
